@@ -1,4 +1,5 @@
 programa Test
+inicio
     int a 
     int b
     int suma
