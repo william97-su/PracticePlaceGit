@@ -9,4 +9,7 @@ programa Test
     ingresar: b
     suma = a + b
     mostar = "la suma es :" + suma
+    si a = "" y b = "" entonces
+        mostrar = "que haces? pone algo"
+    fin si
 fin
